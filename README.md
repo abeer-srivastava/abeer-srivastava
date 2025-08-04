@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Computer Science student at **SRMCEM, Lucknow** with hands-on experience in building modern, scalable full-stack applications.
+I'm a passionate Computer Science student  with hands-on experience in building modern, scalable full-stack applications.
 
 - 🌱 Currently learning: **React Redux**, **System Design**, and **Cloud Computing**
 - 💬 Ask me about **MERN stack, REST APIs, JS/TS, WebSockets**
@@ -48,9 +48,9 @@ I'm a passionate Computer Science student at **SRMCEM, Lucknow** with hands-on e
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 💻 [GitHub](https://github.com/your-username)
-- 📬 Email: abeersrivastava@example.com
+- 🔗 [LinkedIn](www.linkedin.com/in/abeer-srivastava-a90797290)
+- 💻 [GitHub][(https://github.com/abeer-srivastava)
+- 📬 Email:abeersrivastava16@gmail.com
 
 ---
 
