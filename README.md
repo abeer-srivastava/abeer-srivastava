@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hey, I'm Abeer Srivastava</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | CSE Undergrad @ SRMCEM</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers" />
-</p>
+<h3 align="center">Full Stack Developer |  CSE Undergrad </h3>
 
 ---
 
@@ -50,14 +45,6 @@ I'm a passionate Computer Science student at **SRMCEM, Lucknow** with hands-on e
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" height="160" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
